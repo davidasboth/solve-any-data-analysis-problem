@@ -77,6 +77,14 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+chapter-2/.ipynb_checkpoints
+chapter-3/.ipynb_checkpoints
+chapter-4/.ipynb_checkpoints
+chapter-5/.ipynb_checkpoints
+chapter-6/.ipynb_checkpoints
+chapter-7/.ipynb_checkpoints
+chapter-8/.ipynb_checkpoints
+chapter-9/.ipynb_checkpoints
 
 # IPython
 profile_default/
