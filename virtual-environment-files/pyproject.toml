@@ -19,10 +19,13 @@ levenshtein = "^0.21.0"
 recordlinkage = "^0.15"
 nbconvert = {extras = ["webpdf"], version = "^7.4.0"}
 requests = "^2.31.0"
-seaborn = "^0.12.2"
+seaborn = ">=0.12.2"
 lxml = "^4.9.3"
 plotly = "^5.16.1"
 pdfplumber = "^0.10.2"
+statsmodels = "^0.14.0"
+pmdarima = "^2.0.4"
+ridgeplot = "^0.1.23"
 
 
 [build-system]
