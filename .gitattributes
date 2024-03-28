@@ -1,3 +1,2 @@
 chapter-4/data/november.csv.gz filter=lfs diff=lfs merge=lfs -text
 chapter-4/data/december.csv.gz filter=lfs diff=lfs merge=lfs -text
-*.csv.gz filter=lfs diff=lfs merge=lfs -text
